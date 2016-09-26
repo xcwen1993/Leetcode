@@ -1,7 +1,7 @@
 /**
  * Created by XiaochengWen on 16/9/24.
  */
-public class reverseString {
+public class ReverseString {
     public String reverseString(String s) {
         char[] chars = s.toCharArray();
         int length = chars.length;

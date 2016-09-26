@@ -9,7 +9,7 @@ class ListNode {
       ListNode(int x) { val = x; }
   }
 
-public class addTwoNumbers {
+public class AddTwoNumbers {
     public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
         ListNode ret = new ListNode(0);
         ListNode curr = ret;
